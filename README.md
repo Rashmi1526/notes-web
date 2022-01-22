@@ -1,9 +1,10 @@
 ### NOTES-APP
 
-<p align="center">
- <img src="" alt="Notes App">
- </p>
 ***
+
+<p align="center">
+ <img src="https://github.com/Rashmi1526/notes-web/blob/main/assets/notesapp.jpg" alt="Notes App">
+ </p>
 
 
 I have taken inspiration of my design from: https://uidesigndaily.com/posts/photoshop-notes-widget-day-65 <br />
@@ -19,7 +20,7 @@ I have taken inspiration of my design from: https://uidesigndaily.com/posts/phot
      1.window.localStorage - stores data with no expiration date 
      2.window.sessionStorage - stores data for one session (data is lost when the browser tab is closed)
  ***
- 
+ The link to visit this project is: https://rashmi1526.github.io/notes-web/
  
      
 
