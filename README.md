@@ -3,7 +3,7 @@
 ***
 
 <p align="center">
- <img src="https://github.com/Rashmi1526/notes-web/blob/main/assets/notesapp.jpg" alt="Notes App">
+ <img src="https://github.com/Rashmi1526/notes-web/blob/2700586e129cd6760195c4b085bbd364ba0b9558/assets/notesapp.jpg" alt="Notes App" width="250" height"350">
  </p>
 
 
